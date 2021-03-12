@@ -7,4 +7,4 @@
 <img src="Images/3rd_part1.PNG">
 <img src="Images/3rd_part1.PNG">
 <img src="Images/Game_over.PNG">
-<img src="Images/Congratulations.PNG">
+<img src="Images/Congratulation.PNG">
