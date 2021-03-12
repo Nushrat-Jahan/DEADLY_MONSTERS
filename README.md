@@ -1,2 +1,2 @@
 # DEADLY_MONSTERS
-<img src="images/1st_part1.PNG">
+<img src="Images/1st_part1.PNG">
